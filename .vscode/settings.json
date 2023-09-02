@@ -1,0 +1,5 @@
+{
+  "solidity-va.diagnostics.cdili_json.import": true,
+  "solidity-va.tools.surya.option.negModifiers": false,
+  "solidity-va.uml.actors.enable": true
+}
